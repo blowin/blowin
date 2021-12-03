@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 📫 [About me](https://portfolio-two-murex.vercel.app/)
+- 📺 [Follow blowin on Twitch](https://www.twitch.tv/dsisdead).
+
 <!--
 **blowin/blowin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=blowin&show_icons=true&theme=dark" alt="blowin" />
+<div/>
+<br />
+  
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blowin&layout=compact&hide=html&theme=dark" alt="blowin" />
+<div/>
+<br />

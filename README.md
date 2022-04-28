@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 [About me](https://portfolio-two-murex.vercel.app/)
+- 📫 [Blog](https://blowin.github.io/portfolio/)
 - 📺 [Follow blowin on Twitch](https://www.twitch.tv/dsisdead).
 
 <!--

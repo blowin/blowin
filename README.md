@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 [Blog](https://blowin.github.io/portfolio/)
+- 📫 [Blog](https://blowin.github.io/blog/)
 - 📺 [Follow blowin on Twitch](https://www.twitch.tv/dsisdead).
 
 <!--
